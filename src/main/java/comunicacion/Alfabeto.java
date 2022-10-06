@@ -12,7 +12,7 @@ public class Alfabeto extends Pictograma{
 		this.interpretacion = interp;
 	}
 	
-	public int cantidadLetral() {
+	public int cantidadLetras() {
 		
 		return letras.length;
 	}
